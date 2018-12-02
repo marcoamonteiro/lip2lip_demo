@@ -1,0 +1,9 @@
+python pix2pix_modified.py \
+  --mode train \
+  --output_dir ../data_12_train \
+  --max_epochs 200 \
+  --input_dir ../data_12/train \
+  --which_direction BtoA \
+  --scale_size 256 \
+  --save_freq 10000 \
+  --summary_freq 750 \
