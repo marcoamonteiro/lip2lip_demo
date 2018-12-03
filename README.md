@@ -1,4 +1,4 @@
-#lip2lip: A cGan approach to fake video generation
+# lip2lip: A cGan approach to fake video generation
 
 ![](demo.gif)
 
