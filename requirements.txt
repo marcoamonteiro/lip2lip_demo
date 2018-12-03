@@ -1,0 +1,8 @@
+numpy
+scipy
+dlib
+sk-video
+opencv-python
+scikit-learn
+scikit-image
+tensorflow==1.4.1
